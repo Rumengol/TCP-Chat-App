@@ -1,0 +1,28 @@
+﻿<Window x:Class="ChatAppServer.RoomCreationDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChatAppServer"
+        mc:Ignorable="d"
+        Title="Créer un salon" SizeToContent="WidthAndHeight" WindowStartupLocation="Manual" ContentRendered="Window_ContentRendered">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="lblRoom" Grid.Column="0" Grid.Row="0">Entrez le nom du salon :</Label>
+
+        <TextBox x:Name="txtRoom" Grid.Row="1" Grid.Column="0" MinWidth="175"></TextBox>
+
+        <WrapPanel Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button IsDefault="True" Name="btnDialogOk" Click="btnDialogOk_Click" MinWidth="30" Margin="0,0,10,0">_Ok</Button>
+            <Button IsCancel="True" MinWidth="50">_Annuler</Button>
+        </WrapPanel>
+    </Grid>
+</Window>

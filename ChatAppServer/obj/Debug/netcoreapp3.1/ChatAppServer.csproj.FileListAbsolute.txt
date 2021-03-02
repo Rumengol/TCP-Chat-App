@@ -1,0 +1,46 @@
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.exe
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.deps.json
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.runtimeconfig.json
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.runtimeconfig.dev.json
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.dll
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.pdb
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.csprojAssemblyReference.cache
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer_MarkupCompile.cache
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer_MarkupCompile.lref
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.g.resources
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.AssemblyInfoInputs.cache
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.AssemblyInfo.cs
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.dll
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.pdb
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.genruntimeconfig.cache
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\Room.g.cs
+C:\Users\Benji - Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\Room.baml
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.exe
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.deps.json
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.runtimeconfig.json
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.runtimeconfig.dev.json
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.dll
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatAppServer.pdb
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatLib.dll
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\ChatLib.pdb
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.csprojAssemblyReference.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer_MarkupCompile.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer_MarkupCompile.lref
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.g.resources
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.AssemblyInfoInputs.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.AssemblyInfo.cs
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.csproj.CoreCompileInputs.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.csproj.CopyComplete
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.dll
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.pdb
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\ChatAppServer.genruntimeconfig.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\RoomCreationDialog.g.cs
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\obj\Debug\netcoreapp3.1\RoomCreationDialog.baml
+C:\Users\Rumengol\source\repos\ChatApp\ChatAppServer\bin\Debug\netcoreapp3.1\Open.Nat.dll

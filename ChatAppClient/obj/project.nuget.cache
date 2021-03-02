@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ex1SUNLe62OCC9uK4dzL+xP0iAE/MvzSNFDarPJKT+scrnsGaaH8vxeGvGmq3bwCWb5THLXmk1U33Hp8zGPACw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rumengol\\source\\repos\\ChatApp\\ChatAppClient\\ChatAppClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rumengol\\.nuget\\packages\\open.nat.core\\2.1.0.5\\open.nat.core.2.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

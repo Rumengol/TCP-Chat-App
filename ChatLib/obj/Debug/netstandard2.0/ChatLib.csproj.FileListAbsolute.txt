@@ -1,0 +1,9 @@
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\bin\Debug\netstandard2.0\ChatLib.deps.json
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\bin\Debug\netstandard2.0\ChatLib.dll
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\bin\Debug\netstandard2.0\ChatLib.pdb
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.csprojAssemblyReference.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.AssemblyInfoInputs.cache
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.AssemblyInfo.cs
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.dll
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.pdb
+C:\Users\Rumengol\source\repos\ChatApp\ChatLib\obj\Debug\netstandard2.0\ChatLib.csproj.CoreCompileInputs.cache
